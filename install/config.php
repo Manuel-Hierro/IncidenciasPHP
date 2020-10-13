@@ -4,6 +4,6 @@
         public $servidor  = "localhost";
         public $usuario   = "root";
         public $password  = "";
-        public $basedatos = "db_incidencias";
+        public $basedatos = "db";
       }
   
